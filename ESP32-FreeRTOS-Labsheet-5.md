@@ -47,5 +47,7 @@ void My_First_Task(void * arg)
 โดยปกติเราจะใส่ชื่อ task handle เป็นอาร์กิวเมนต์สำหรับฟังก์ชัน `vTaskDelete()`, `vTaskSuspend()` และ `vTaskResume()`  แต่การใส่อาร์กิวเมนต์เป็น `NULL` เช่น  `vTaskSuspend(NULL);` จะหมายถึงการกระทำกับ task ผู้ออกคำสั่งเอง 
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน วิเคราะห์ผลที่ได้ว่าเป็นอย่างไร
+![image](https://github.com/user-attachments/assets/0e9911d7-1d16-4195-8fbd-3b1d7ec909da)
+
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-6.md) 
