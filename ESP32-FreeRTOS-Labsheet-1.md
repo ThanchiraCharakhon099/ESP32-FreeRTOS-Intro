@@ -19,6 +19,8 @@
 
 
 3. รันโปรแกรมและอธิบายผลที่ได้
+4. ![image](https://github.com/user-attachments/assets/0e48a710-f3c3-4544-9dcf-af55154f20c9)
+
 
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-2.md) 
