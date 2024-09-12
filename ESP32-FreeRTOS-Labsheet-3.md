@@ -50,6 +50,7 @@ void app_main(void)
 ```
 
 2. รันและบันทึกผลจากโปรแกรมข้างบน
+![image](https://github.com/user-attachments/assets/a767e018-7f5b-480b-a45b-0fc3faadc568)
 
 3.  แก้ไข code ในส่วนของการสร้าง task 2 (ตามหมายเหตุหมายเลข 3) เป็นดังนี้
 
@@ -63,5 +64,7 @@ void app_main(void)
 ```
 
 4. รันและบันทึกผลจากโปรแกรมข้างบน ได้ผลเหมือนหรือต่างกันอย่างไร
+ ![image](https://github.com/user-attachments/assets/538da3f3-08c8-408b-bf38-0876cb792aa0)
+
 
 ## [>> ต่อไป >>](./ESP32-FreeRTOS-Labsheet-4.md) 
